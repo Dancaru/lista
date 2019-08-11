@@ -1,0 +1,13 @@
+#EXTM3U 
+#EXTINF:0 group-title="TV",
+#EXTSIZE: Big 
+
+#EXTINF:0 group-title="Novo Tempo", Tv Novo Tempo
+
+
+
+#EXTINF:0 group-title="Documentarios", Animal Planet SD
+http://144.217.67.34:25461/live/3JgByTyZPlX4QQ/1U1xgqbsoJAb/945.m3u8
+
+#EXTINF:0 group-title="Documentarios", History Channel SD
+http://144.217.69.9:25461/live/3JgByTyZPlX4QQ/1U1xgqbsoJAb/764.m3u8
